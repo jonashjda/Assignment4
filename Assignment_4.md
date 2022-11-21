@@ -138,6 +138,3 @@ The files saved in the 'figs' folder in this task look like this, with one of th
 
 ### Discussion
 There are advantages and disadvantages for both mehotds. With the stacked plots, it is very difficult to tell the lines apart, as it is one big cluster of lines and colors. However, it might be easier to conclude a general trend from the stacked rows, although it is not as big of a problem in this case, since all the series object are similar enough to where you can easily see it from the grouped plots. With the grouped plots, the main advantage is that you can easily read each plot.
-
-
-## Task 4: Pair Plot of World Happiness Survey
